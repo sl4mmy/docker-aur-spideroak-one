@@ -13,7 +13,7 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 NAME = aur-spideroak-one
-VERSION = 7.2.0
+VERSION = 7.3.0
 
 ARCH_VERSION = `/bin/date +%Y.%m`
 DATE = `/bin/date +%Y-%m-%d`
