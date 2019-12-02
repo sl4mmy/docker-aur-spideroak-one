@@ -1,4 +1,4 @@
-# Copyright (c) 2018 Kent R. Spillner <kspillner@acm.org>
+# Copyright (c) 2018, 2019 Kent R. Spillner <kspillner@acm.org>
 #
 # Permission to use, copy, modify, and distribute this software for any
 # purpose with or without fee is hereby granted, provided that the above
@@ -13,7 +13,7 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 NAME = aur-spideroak-one
-VERSION = 7.3.0
+VERSION = 7.5.0
 
 ARCH_VERSION = `/bin/date +%Y.%m`
 DATE = `/bin/date +%Y-%m-%d`
